@@ -53,6 +53,13 @@ Para K-Means, se visualizó la distribución de los clusters utilizando técnica
 ![image](https://github.com/user-attachments/assets/978854ac-209f-4de1-b2fd-98ed4825364c)
 
 
+# Datos relevantes al proyecto (palabras tópicos)
+![image](https://github.com/user-attachments/assets/f948b621-99f4-424e-8a78-d96726b70df8)
+
+
+Los datos relevantes para el proyecto, como palabras tópicos y conceptos identificados, se reflejan en las nuevas columnas del DataFrame. Estas incluyen temas identificados por LDA, asignaciones de clusters por K-Means y palabras clave extraídas. Estas adiciones enriquecen el análisis al proporcionar un contexto más detallado sobre los artículos, lo que permite una comprensión más profunda de los patrones y temas relevantes en el campo de los datos urbanos.
+
+![image](https://github.com/user-attachments/assets/f02d61f1-9959-4ed6-9507-7f0c9a847420)
 
 
 
